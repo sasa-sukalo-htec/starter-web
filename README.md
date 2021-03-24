@@ -9,4 +9,6 @@ This is example is to show different parts of the Git repository various command
 
 Please fork this repository and then issue Pull Request for review.
 
-2021 Git.Training
+### Copyright
+
+2021 Git.Training. All rights reserved.
