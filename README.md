@@ -1,4 +1,4 @@
-# starter-web
+# Starter Web Project
 Starter Web Repository
 
 ##Introduction
